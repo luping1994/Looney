@@ -1,0 +1,1 @@
+include ':app', ':apt_annotation', ':apt-processor', ':apt-library', ':st_devices','looney'
